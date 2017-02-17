@@ -1,0 +1,58 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="css/boostrap.min.css">
+<link rel="stylesheet" href="css/bootstrap2.min.css">
+<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center text-primary">Prof. Suniti Sharma</h1>
+        <h2 class="text-center"><em>Maharani Gayatri Devi Girls' School Jaipur</em></h2>
+        <div class="thumbnail">
+          <img src="https://www.scootalks.com/uploads/news_images/2625bf12f9953ad5cf86f8bac2d0437e.jpg">
+          <div class="caption text-center">IPSC Gaur Hari Singhania Lifetime Achievement Award to MGD Principal</div>
+        
+        </div>
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <h3>
+          Here is the time Line of Professor Suniti Sharma's Life.</h3>
+          <ul>
+            <li><strong>1976</strong>: Began the career as a teacher at the Air Force School, Subroto Park, New Delhi</li>
+            <li><strong>1996-2000</strong>: Became the Headmistress, the Scindia School(Gwalior) </li>
+            <li><strong>2000-2007</strong>:
+            Became the Principal of Scindia Kanya Vidyalaya, Gwalior.</li>
+            <li><strong>2007-2009</strong>: Principal at the Global Indian International School, Kuala Lumpur, Malaysia, part of a chain of schools in the Asia Pacific region run by a Singapore-based foundation</li>
+            <li><strong>2009-Present</strong>: Principal of Maharani Gayatri Devi Girls' School Jaipur.</li>
+          </ul>
+          </div>
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <hr />
+          <h3>About Her:</h3>
+          <p><h5>
+          Educated at Delhi University, Ms. Suniti Sharma comes with 33 years of experience in education. Principal of MGD School since May 2009.<br />
+            She was the founder secretary of Sahodaya Gwalior, an association of CBSE schools, and has initiated resource sharing, mentoring and staff development programmes. Ms. Sharma was Chief Nodal Supervisor for CBSE Class X evaluation and for the conduct of AIEEE, IIT JEE & IIM CAT.
+She was on the Board of Governors of Vidya Devi Jindal School, Hisar and ROSHNI, Ramakrishna Ashram, Gwalior.<br />
+    Her association with GIIS and the IPSC schools has enabled her to pursue her interests in adventure sports, environment, travel, theatre and journalism.</h5>
+          </p>
+        </div>
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+      <h3>If you have time, you should read more about this incredible human being on this <a href="http://www.shoobharts.com/suniti.html" target="_blank">link</a></h3>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="text-center">
+  <hr>
+  Written and Coded by
+  <a href="https://www.freecodecamp.com/sunakshi96" target="_blank">Sunakshi Tejwani</a>
+</p>
+  </footer>  
+</div>  
+</body>
+</html>
